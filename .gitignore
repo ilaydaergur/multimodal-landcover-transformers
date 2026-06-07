@@ -14,3 +14,9 @@ __pycache__/
 *.out
 *.toc
 *.synctex.gz
+*.tex
+*.zip
+
+# Report working files (keep only PDFs in reports/)
+reports/*.png
+reports/*.md
